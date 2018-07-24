@@ -7,4 +7,5 @@ Personal repo to keep track of my learning experience everyday :)
 - [x] Jul 17: attended dataset platform talk (meetup), wrote a blog post
 - [x] Jul 18-19: attended internship open houses 
 - [x] Jul 20-21: attended hackathon, dev chrome extension
+- [x] Jul 23: attended a meetup related to loT and blockchain
 
