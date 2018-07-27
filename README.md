@@ -10,4 +10,4 @@ Personal repo to keep track of my learning experience everyday :)
 - [x] Jul 23: attended a meetup related to loT and blockchain
 - [x] Jul 24: attended ml related meetup, did one leetcode
 - [x] Jul 25: studied solutions to first leetcode question
-
+- [x] Jul 26: re-did 1st leetcode question
